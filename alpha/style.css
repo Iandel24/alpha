@@ -1,0 +1,66 @@
+.container-fluid{
+    background-color: black;
+    color: black;
+}
+.navbar{
+    color:rgb(45, 43, 43);
+    padding: 0px;
+}
+.navbar-nav *{
+    color:rgb(182, 178, 178);
+}
+.logo-image{
+    width: 100px;
+    padding-left: 20%;
+}
+nav{
+    color: rgb(59, 47, 69);
+}
+
+body{
+    background-color: rgb(21, 19, 19);
+    align-self: center;
+}
+
+.list-group *{
+    background-color: rgb(12, 12, 17);
+    color:aliceblue;
+    width: 150px;
+}
+.indexer{
+    float: left;
+}
+.galeria {
+    padding: 5%;
+}
+.PRESENTACION{
+    padding-top: 5%;
+    padding-left: 8%;
+    color: aliceblue;
+    background-color: rgb(100, 99, 99);
+    padding-bottom: 5.87%;
+}
+.img1{
+    width: 110px;
+}
+.titulo_presentacion{
+    color: antiquewhite;
+    width: 120px;
+}
+
+.titulo{
+    padding-left: 100px;
+}
+
+.titulo_presentacion_1{
+    width: 600px;
+    padding-left: 100px;
+}
+
+.arde{
+    width: 100px;
+    height: 100px;
+    padding-bottom: 100px;
+    position: relative;
+}
+
